@@ -1,2 +1,2 @@
-# My first readme
+# finaly i updated my readme file
 I'm now a ALX Student, this is my first repository as a full-stack engineer
